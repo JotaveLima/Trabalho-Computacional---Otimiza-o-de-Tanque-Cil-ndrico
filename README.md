@@ -87,9 +87,8 @@ python tanque_otimizacao.py
 
 ```text
 .
-├── tanque_otimizacao.py   # Código-fonte principal em Python
+├── Otimizacao_TanqueCilindrico.py   # Código-fonte principal em Python
 ├── README.md              # Documentação do repositório
-├── Relatorio.md            # Trabalho escrito acadêmico completo
 └── .gitignore
 ```
 
