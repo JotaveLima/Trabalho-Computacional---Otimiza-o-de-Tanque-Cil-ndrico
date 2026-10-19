@@ -1,6 +1,6 @@
 # 📐 Otimização do Projeto de um Tanque Cilíndrico de Armazenamento
 
-Trabalho computacional desenvolvido para a disciplina de Métodos Numéricos / Computação Aplicada. O objetivo é determinar as dimensões ideais de raio ($r$) e altura ($h$) de um tanque cilíndrico que **minimizem o custo total de fabricação**, garantindo o atendimento à restrição de volume mínimo de $500\text{ m}^3$.
+Trabalho computacional desenvolvido para a disciplina de Modelagem Computacional. O objetivo é determinar as dimensões ideais de raio ($r$) e altura ($h$) de um tanque cilíndrico que **minimizem o custo total de fabricação**, garantindo o atendimento à restrição de volume mínimo de $500\text{ m}^3$.
 
 Este repositório contém a implementação completa do algoritmo em **Python**, utilizando o **Método do Gradiente Descendente**, **Funções de Penalização** e **Diferenças Finitas**.
 
